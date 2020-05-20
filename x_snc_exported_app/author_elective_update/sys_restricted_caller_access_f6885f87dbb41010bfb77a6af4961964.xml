@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="DELETE">
+        <operation>execute</operation>
+        <source/>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 13:26:34</sys_created_on>
+        <sys_id>f6885f87dbb41010bfb77a6af4961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="Exported App" source="x_snc_exported_app">9e4fe7fedb0d7b805acd52f8f49619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exported App">9e4fe7fedb0d7b805acd52f8f49619a2</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_f6885f87dbb41010bfb77a6af4961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 13:26:34</sys_updated_on>
+        <target>cbc6df07dbb41010bfb77a6af496199d</target>
+        <target_scope display_value="Exported App">9e4fe7fedb0d7b805acd52f8f49619a2</target_scope>
+        <target_table>sys_script_include</target_table>
+        <target_type>2</target_type>
+    </sys_restricted_caller_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Exported App">9e4fe7fedb0d7b805acd52f8f49619a2</application>
+        <file_path/>
+        <instance_id>9f2b0598db6e72807e55d5b0cf9619f8</instance_id>
+        <instance_name>empsnovac01</instance_name>
+        <name>sys_restricted_caller_access_f6885f87dbb41010bfb77a6af4961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><operation>execute</operation><source/><source_scope display_value="Global">global</source_scope><source_table/><source_type>5</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-20 13:26:34</sys_created_on><sys_id>f6885f87dbb41010bfb77a6af4961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global</sys_name><sys_package display_value="Exported App" source="x_snc_exported_app">9e4fe7fedb0d7b805acd52f8f49619a2</sys_package><sys_policy/><sys_scope display_value="Exported App">9e4fe7fedb0d7b805acd52f8f49619a2</sys_scope><sys_update_name>sys_restricted_caller_access_f6885f87dbb41010bfb77a6af4961964</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-20 13:26:34</sys_updated_on><target>cbc6df07dbb41010bfb77a6af496199d</target><target_scope display_value="Exported App">9e4fe7fedb0d7b805acd52f8f49619a2</target_scope><target_table>sys_script_include</target_table><target_type>2</target_type></sys_restricted_caller_access></record_update>]]></payload>
+        <payload_hash>-257052</payload_hash>
+        <record_name>global</record_name>
+        <reverted_from/>
+        <source>aa4fe7fedb0d7b805acd52f8f49619b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 13:26:35</sys_created_on>
+        <sys_id>cc09db87dbb41010bfb77a6af49619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1723243ab090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 13:26:35</sys_updated_on>
+        <type>Restricted Caller Access Privilege</type>
+        <update_guid>c409db876eb41010a31beb3df14c10c4</update_guid>
+        <update_guid_history>c409db876eb41010a31beb3df14c10c4:-257052</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 13:27:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_restricted_caller_access">sys_restricted_caller_access</sys_db_object>
+        <sys_id>0b5c0a3f064946108b9d7a8d84b1ea10</sys_id>
+        <sys_metadata>f6885f87dbb41010bfb77a6af4961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="Exported App" source="x_snc_exported_app">9e4fe7fedb0d7b805acd52f8f49619a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Exported App">9e4fe7fedb0d7b805acd52f8f49619a2</sys_scope>
+        <sys_scope_delete display_value="">31ca7b7a670644c19a5d4b88e4a277c1</sys_scope_delete>
+        <sys_update_name>sys_restricted_caller_access_f6885f87dbb41010bfb77a6af4961964</sys_update_name>
+        <sys_update_version display_value="sys_restricted_caller_access_f6885f87dbb41010bfb77a6af4961964">cc09db87dbb41010bfb77a6af49619c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 13:27:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
